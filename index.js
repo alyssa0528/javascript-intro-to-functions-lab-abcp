@@ -14,3 +14,5 @@ spy('HELLO')
 function logWhisper(string){
   console.log(`${string}.toLowerCase()`);
 }
+
+function 
